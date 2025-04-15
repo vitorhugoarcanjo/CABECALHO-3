@@ -1,4 +1,4 @@
 @import './partials/section-um/section-um.css';
 @import './partials/section-dois/section-dois.css';
 
-@import '/assets/css/global/global.css';
+@import '../../global/global.css';

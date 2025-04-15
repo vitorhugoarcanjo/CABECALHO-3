@@ -1,0 +1,43 @@
+body .section-um {
+    background-color: rgb(146, 0, 0);
+    color: aliceblue;
+}
+
+
+
+
+
+body section header .div-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+body section header div .logo-image-um {
+    border-radius: 50%;
+    margin: 0.3rem;
+}
+
+
+
+
+
+
+body section header div .titulo-logo-um {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+body section header div .logo-titulo-um {
+    margin:0.3rem;
+    border-radius: 50%;
+}
+
+
+
+
+body section header div .rotulo-nome {
+    display: flex;
+    align-items: center;
+
+}
