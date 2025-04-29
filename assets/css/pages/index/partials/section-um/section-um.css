@@ -3,10 +3,6 @@ body .section-um {
     color: aliceblue;
 }
 
-
-
-
-
 body section header .div-1 {
     display: flex;
     justify-content: space-around;
@@ -14,23 +10,20 @@ body section header .div-1 {
 
 body section header div .logo-image-um {
     border-radius: 50%;
-    margin: 0.3rem;
+    margin: 1.3rem;
+    width: 20rem;
 }
-
-
-
-
-
 
 body section header div .titulo-logo-um {
     display: flex;
     align-items: center;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
 }
 
 body section header div .logo-titulo-um {
-    margin:0.3rem;
     border-radius: 50%;
+    margin: 1.3rem;
+    width: 20rem;
 }
 
 
